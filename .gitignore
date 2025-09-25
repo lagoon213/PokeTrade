@@ -1,0 +1,5 @@
+﻿################################################################################
+# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
+################################################################################
+
+/.android/avd/pixel_7_pro_-_api_35.avd/hardware-qemu.ini.lock/pid
