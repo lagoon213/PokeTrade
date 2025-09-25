@@ -1,5 +1,13 @@
-﻿################################################################################
-# This .gitignore file was automatically created by Microsoft(R) Visual Studio.
-################################################################################
+# Virtual environments
+venv/
+env/
 
-/.android/avd/pixel_7_pro_-_api_35.avd/hardware-qemu.ini.lock/pid
+# Python cache bestanden
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# PyCharm bestanden
+.idea/
+*.iml
